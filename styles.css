@@ -331,16 +331,17 @@ header nav a:after {
 
 @keyframes circle {
   0% {
-    box-shadow: 0 0 0 28px #ec8557f7;
+    box-shadow: 0 0 0 28px #fffffff7;
   }
   50% {
-    box-shadow: 0 0 0 1px #ec8557f7;
+    box-shadow: 0 0 0 1px #fffffff7;
   }
   100% {
-    box-shadow: 0 0 0 15px #ec8557f7;
-    box-shadow: 0 0 0 28px #ec8557f7;
+    box-shadow: 0 0 0 15px #fffffff7;
+    box-shadow: 0 0 0 28px #fffffff7;
   }
 }
+
 
 
 /*--Linkedin ------*/
