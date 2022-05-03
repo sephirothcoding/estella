@@ -8,7 +8,8 @@
 }
 
 body {
-  background: black;
+  background-image: url("https://img.xatblog.net/image/VAKMHW6JyMu.jpg");
+  background-size: cover;
   text-shadow: #0e0e0e 0px 0.5px 0px;
   /* font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 }
