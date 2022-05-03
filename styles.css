@@ -473,15 +473,17 @@ header nav a:after {
 .introHeader {}
 
 .introHeading h1 {
-  color: #f47d31;
+  color: #ffffff;
   font-size: 40px;
   font-weight: 900;
   letter-spacing: 10px;
   text-transform: uppercase;
   padding-bottom: 0;
   line-height: 75px;
-  text-shadow: #ffffff 2px 1px 1px;
+  text-shadow: #fcc4c4 2px 1px 1px;
 }
+
+
 
 .introHeading h2 {
   font-size: 25px;
